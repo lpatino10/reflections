@@ -13,3 +13,9 @@ directory that will be placed into the repository. I think it adds
 flexibility, as the user can choose exactly what they want committed at 
 one time. 
 
+
+How can you use the staging area to make sure you have one commit per 
+logical change?
+
+I can just add what is logical to bunch together, instead of having to 
+commit and then go on with doing my work.
