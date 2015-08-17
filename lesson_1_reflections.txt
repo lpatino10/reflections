@@ -1,0 +1,59 @@
+How did viewing a diff between two versions of a file help you see the 
+bug that was introduced?
+
+You can quickly see differences in things like length, to visually help 
+spot differences. This is much easier than trying to remember what's 
+different about some code.
+
+
+How could having easy access to the entire history of a file make you a
+more efficient programmer in the long term?
+
+It gives you more context to changes. When making changes to someone
+else's code, seeing the history can give you a better look into
+their thought process.
+
+
+What do you think are the pros and cons of manually choosing when to 
+create a commit, like you do in Git, vs having versions automatically
+saved, like Google Docs does?
+
+Manually committing is good because it is flexible. Not all changes are
+equal and only you know what's really a logical time to commit. On the
+other hand, automatic committing is nice because it makes sure no
+commit is too large and eliminates needing the user to remember
+to commit.
+
+
+Why do you think some version control systems, like Git, allow saving
+multiple files in one commit, while others, like Google Docs, treat
+each file separately?
+
+It's probably rare that you need to keep multiple Google Docs files
+together, since they're generally independent. However, since Git
+mainly targets code, it's pretty important that we have that
+ability.
+
+
+How can you use the commands git log and git diff to view the history of
+files?
+
+git log shows the individual commits with their messages, which gives you
+a high-level view of any changes that were made. git diff can be used
+to really see what changed between commits.
+
+
+How might using version control make you more confident to make changes 
+that could break something?
+
+You always know that you can go back to when things worked fine. Plus,
+assuming you commit smartly, you can find the problems very easily with
+the technique we just used.
+
+
+Now that you have your workspace set up, what do you want to try using
+Git for?
+
+I immediately need it for my Android development course, but I know I
+will need it for future jobs and I especially want to be proficient
+in it for the hackathon.
