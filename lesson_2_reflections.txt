@@ -19,3 +19,11 @@ logical change?
 
 I can just add what is logical to bunch together, instead of having to 
 commit and then go on with doing my work.
+
+
+What are some situations when branches would be helpful in keeping your 
+history organized? How would branches help?
+
+If you're making small changes or variations of a program that you're
+switching between, branches are very useful because they can be 
+independent but you can switch to them easily.
