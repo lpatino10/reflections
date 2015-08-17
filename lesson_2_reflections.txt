@@ -12,3 +12,4 @@ The staging area is the intermediate point. Ot has things from the working
 directory that will be placed into the repository. I think it adds
 flexibility, as the user can choose exactly what they want committed at 
 one time. 
+
