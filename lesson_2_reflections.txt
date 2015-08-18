@@ -40,3 +40,12 @@ in the diagram the way we do?
 
 Merging two branches puts their changes together in one branch. That's why
 we reperesent it by combining the two branches.
+
+
+What are the pros and cons of Git's automatic merging vs. always doing
+merges manually?
+
+The automatic merging is MUCH easier and more convenient, but it's good
+that Git doesn't always force an automatic merge because there definitely
+are cases when the people need to get together and resolve a conflict
+themselves.
