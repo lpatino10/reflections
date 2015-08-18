@@ -27,3 +27,9 @@ history organized? How would branches help?
 If you're making small changes or variations of a program that you're
 switching between, branches are very useful because they can be 
 independent but you can switch to them easily.
+
+
+How do the diagrams help you visualize the branch structure?
+
+They help to see the branches and nonlinearity of the history, especially
+regarding reachability.
