@@ -33,3 +33,10 @@ How do the diagrams help you visualize the branch structure?
 
 They help to see the branches and nonlinearity of the history, especially
 regarding reachability.
+
+
+What is the result of merging two branches together? Why do we represent it
+in the diagram the way we do?
+
+Merging two branches puts their changes together in one branch. That's why
+we reperesent it by combining the two branches.
