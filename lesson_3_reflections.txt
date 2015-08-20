@@ -10,3 +10,16 @@ automatically stay up-to-date with your remote repository?
 
 You might be doing your own offshoot of a project, so Git automatically
 writing over that would be pretty annoying.
+
+
+Describe the differences between forks, clones, and branches. When would 
+you use one instead of another?
+
+Branches are just used within one repository to keep track of different
+changes being made (bug fixes, new features). Cloning and forking is 
+similar, but cloning is done to pull a repository from GitHub to your
+local repository, while forking is done to make changes to someone
+else's public repo when you're not a collaborator. You can edit their
+things without messing with their stuff but while still giving them
+the credit for coming up with it. It's basically a fancy, collaborative
+clone.
