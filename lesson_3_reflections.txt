@@ -30,3 +30,12 @@ stored locally?
 
 You can figure out how to merge it with your master branch sometime later
 without internet connection, instead of having to do it all at once.
+
+
+How would you collaborate without using Git or Github? What would be easier,
+and what would be harder?
+
+Without these tools, I would probably just be coding with someone to make
+sure we were on the same page. The communication would be great, but
+it's obviously not practical to be working with all of your partners
+all the time.
