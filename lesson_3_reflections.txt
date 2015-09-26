@@ -39,3 +39,14 @@ Without these tools, I would probably just be coding with someone to make
 sure we were on the same page. The communication would be great, but
 it's obviously not practical to be working with all of your partners
 all the time.
+
+
+When would you want to make changes in a separate branch rather than 
+directly in master? What benefits does each approach have?
+
+A separate branch allows you to deviate from the course of the master
+branch, like if in a game you wanted to add a new game mode. Like
+it was pointed out in the question, this is a bit more complicated,
+but it makes sure things aren't broken in the master and that you
+can make your changes by yourself. If you do work in master,
+it will be much easier to stay up to date.
